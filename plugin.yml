@@ -1,0 +1,17 @@
+name: SacADos
+version: 1.0
+author: ixion
+main: fr.ixiondata.plugin.mainSacADos
+commands:
+  teste:
+    description: Commande Teste
+    permission: teste.use
+    usage: /teste
+  teleportation:
+    description: Pour remplacer teleport
+    permission: teleportation.use
+    usage: /teleportation
+  aide:
+    description: Aide sac a dos
+    permission: aide.use
+    usage: /aide
